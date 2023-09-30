@@ -1,1 +1,1 @@
-food : none
+food : fried rice
